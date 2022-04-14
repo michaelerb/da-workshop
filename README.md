@@ -1,3 +1,8 @@
+---
+layout: default
+title: readme
+---
+
 ## Testing
 
 This is a test.
