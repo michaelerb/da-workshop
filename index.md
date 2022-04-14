@@ -3,6 +3,6 @@ layout: default
 title: welcome
 ---
 
-## Testing
+## Welcome
 
-This is a test
+Welcome to the site!
