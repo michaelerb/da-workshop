@@ -1,8 +1,9 @@
 ---
 layout: default
-title: welcome
+title: Home
 ---
 
-## Welcome
+## Data Assimilation Workshop
+# A virtual workshop in August, 2022
 
-Welcome to the site!
+Information coming soon.
