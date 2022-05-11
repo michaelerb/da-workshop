@@ -29,4 +29,4 @@ The Data Assimilation workshop is being organized by the folks below:
 
 ## Contact
 
-If you'd like to get in touch, please contact Michael Erb at michael.erb@nau.edu.
+If you'd like to get in touch, please contact Michael Erb at [michael.erb@nau.edu](michael.erb@nau.edu).
