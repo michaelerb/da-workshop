@@ -6,7 +6,7 @@ title: Organizers
 ## Organizers
 
 The Data Assimilation workshop is being organized by the folks below:
-
+<img src="images/MichaelErb.jpg" alt="Michael Erb">
 ![Michael Erb](/least-github-pages/assets/MichaelErb.jpg)
 
 ### Michael Erb, School of Earth and Sustainability, Northern Arizona University
