@@ -5,7 +5,7 @@ title: FAQs
 
 ## Frequently Asked Questions
 
-*This section is under construction.*
+**Website under construction.**
 
 ### What is paleoclimate data assimilation?
 
