@@ -27,6 +27,14 @@ The workshop will involve:
 
 A basic understanding of python is recommended. The workshop will involve running, modifying, and writing python code in interactive online notebooks hosted on Google Colaboratory. If you are a capable programmer and know a different programming language (e.g., R) and want to learn a bit of python, that will probably be fine. Users with no programming language will find the workshop difficult.
 
+### Is there any fee for the workshop?
+
+No, the workshop will be completely, absolutely, genuinely free!
+
 ### Great, how do I apply for the workshop?
 
 Details about how to apply will be posted on this website soon.
+
+## What if I don't get accepted?
+
+Depending on enrollment, we may not accept everyone. We will base acceptance on a variety of factors, so don't take it personally. That just means you have more time to work on other things! :)
