@@ -3,10 +3,10 @@ layout: default
 title: Welcome
 ---
 
+*This website is under construction; details may change.*
+
 ## Data Assimilation Workshop
 ### A virtual workshop in August 2022
-
-*Website under construction; details may change.*
 
 Past climate offers a vast canvas for exploring the dynamics and natural variability in the climate system. Proxy data (e.g., ice cores, sediment cores, speleothems, etc.) and climate models offer two fantastic ways of exploring the climate system, and both approaches have strengths and weaknesses. **Data assimilation** is a method of combining information from proxies and models to create spatially complete reconstructions of past climate.
 
