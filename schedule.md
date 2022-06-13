@@ -3,9 +3,9 @@ layout: default
 title: Schedule
 ---
 
-## Schedule
+*This website is under construction; details may change.*
 
-*This is a tenative schedule; details may change.*
+## Schedule
 
 **Day 1**
 - 9 – 9:15am: Welcome and workshop overview
