@@ -5,7 +5,7 @@ title: Schedule
 
 ## Schedule
 
-*This is a tenative schedule subject to change.*
+*This is a tenative schedule; details may change.*
 
 **Day 1**
 - 9 – 9:15am: Welcome and workshop overview
