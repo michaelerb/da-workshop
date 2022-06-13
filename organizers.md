@@ -3,6 +3,8 @@ layout: default
 title: Organizers
 ---
 
+*This website is under construction; details may change.*
+
 ## Organizers
 
 The Data Assimilation workshop is being organized by the folks below:
