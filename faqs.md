@@ -9,7 +9,7 @@ title: FAQs
 
 ### What is paleoclimate data assimilation?
 
-Paleoclimate data assimilation is a mathematical way of combining information from proxy data and climate models to create spatially complete reconstructions of past climate. It has been used to explore the past 2000 years (e.g., ) as well as longer periods (e.g., ). In contrast with modern data assimilation, which is used to reconstruct climate over the instrumental period (e.g., ECMWF), paleoclimate data assimilation typically uses an offline framework in which pre-run model states are utilized instead of running new simulations.
+Paleoclimate data assimilation is a mathematical way of combining information from proxy data and climate models to create spatially complete reconstructions of past climate. It has been used to explore the past 2000 years (e.g., [Hakim et al., 2016](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JD024751), [Steiger et al., 2018](https://www.nature.com/articles/sdata201886)) as well as longer periods (e.g., [Osman et al., 2021](https://www.nature.com/articles/s41586-021-03984-4), [Erb et al., in review](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-184/)). In contrast with modern data assimilation, which is used to reconstruct climate over the instrumental period (e.g., ECMWF), paleoclimate data assimilation typically uses an offline framework in which pre-run model states are utilized instead of running new simulations.
 
 At its core, paleoclimate data assimilation combines proxy data with climate model output, using modeled covariances to reconstruct climate in poorly sampled regions based on available data.
 
@@ -37,6 +37,6 @@ No, the workshop will be completely, absolutely, genuinely free!
 
 To apply for the workshop, please fill out this form: https://forms.gle/rNQZMdUBMpy2wSzR9 *(NOTE: Form is not yet finalized. Do not fill it out yet.)*
 
-## What if I don't get accepted?
+### What if I don't get accepted?
 
 Depending on enrollment, we may not accept everyone. We will base acceptance on a variety of factors, so don't take it personally. That just means you have more time to work on other things! :)
