@@ -33,7 +33,7 @@ No, the workshop will be completely, absolutely, genuinely free!
 
 ### Great, how do I apply for the workshop?
 
-Details about how to apply will be posted on this website soon.
+To apply for the workshop, please fill out this form: https://forms.gle/rNQZMdUBMpy2wSzR9 (NOTE: Form is not yet finalized. Do not fill it out yet.)
 
 ## What if I don't get accepted?
 
