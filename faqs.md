@@ -35,7 +35,7 @@ No, the workshop will be completely, absolutely, genuinely free!
 
 ### Great, how do I apply for the workshop?
 
-To apply for the workshop, please fill out this form: https://forms.gle/rNQZMdUBMpy2wSzR9 *(NOTE: Form is not yet finalized. Do not fill it out yet.)*
+To apply for the workshop, please fill out [this application form](https://forms.gle/rNQZMdUBMpy2wSzR9). *(NOTE: Form is not yet finalized. Do not fill it out yet.)*
 
 ### What if I don't get accepted?
 
