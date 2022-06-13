@@ -3,9 +3,9 @@ layout: default
 title: FAQs
 ---
 
-## Frequently Asked Questions
+*This website is under construction; details may change.*
 
-**Website under construction.**
+## Frequently Asked Questions
 
 ### What is paleoclimate data assimilation?
 
