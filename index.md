@@ -20,4 +20,4 @@ Users will learn about:
 - Existing proxy and climate model products you can use
 - How to access, analyze, and run some climate reconstructions
 
-To apply to the workshop, watch this page.
+To apply to the workshop, please fill out this form: https://forms.gle/rNQZMdUBMpy2wSzR9 (NOTE: Form is not yet finalized. Do not fill it out yet.)
