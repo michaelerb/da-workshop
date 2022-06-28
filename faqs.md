@@ -13,7 +13,7 @@ At its core, paleoclimate data assimilation combines proxy data with climate mod
 
 ### Where and when will the workshop take place?
 
-This is an online workshop taking place in August 2022. Some parts of the workshop will be live on Zoom and some parts will be asynchronous. Participants will also be able to chat with organizers and fellow participants on Slack. The live parts of the workshop will occur at ~9am-2pm Pacific Time (16-21 UTC; see the schedule) but will be recorded, so participants in other time zones can watch talks and lessons at their leisure. Live participation is recommended when possible.
+This is an online workshop taking place on August 22-24, 2022. Some parts of the workshop will be live on Zoom and some parts will be asynchronous. Participants will also be able to chat with organizers and fellow participants on Slack. The live parts of the workshop will occur at ~9am-2pm Pacific Time (16-21 UTC; see the schedule) but will be recorded, so participants in other time zones can watch talks and lessons at their leisure. Live participation is recommended when possible.
 
 ### What will I be doing at the workshop?
 
