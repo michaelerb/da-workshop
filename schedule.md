@@ -3,8 +3,6 @@ layout: default
 title: Schedule
 ---
 
-*This website is under construction; details may change.*
-
 ## Schedule
 
 **Day 1**
@@ -15,12 +13,12 @@ title: Schedule
 - 11 – 12am: The math of data assimilation
 - 12 – 1pm: Lunch break
 - 1 – 2pm: Temp12k and other proxy databases
-- 2 – 3pm: Transient simulations and other model priors
+- 2 – 3pm: Using PSMs to connect proxy and model data
 - 3 – 5pm: Hackathon! Use interactive python notebooks to load and analyze proxy data (Temp12k) and data assimilation products (e.g., LMR, PHYDA, LGMR, Holocene Reconstruction)
 
 **Day 2**
-- 9 – 10am: Using PSMs to connect proxy and model data
-- 10 – 11am: Analyzing and compositing proxy data
+- 9 – 10am: Analyzing and compositing proxy data
+- 10 – 11am: Transient simulations and other model priors
 - 11 – 12am: Introduction to running a data assimilation experiment
 - 12 – 1pm: Lunch break
 - 1 – 5pm: Hackathon! Participants work in teams. Using interactive python notebooks, they will run data assimilation code and and analyze output.
