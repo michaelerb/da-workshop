@@ -33,7 +33,7 @@ No, the workshop will be completely, absolutely, genuinely free!
 
 ### Great, how do I apply for the workshop?
 
-To apply for the workshop, please fill out [this application form](https://forms.gle/rNQZMdUBMpy2wSzR9).
+*The application form has been closed and acceptance letters have already been sent out. Please email Michael Erb at michael.erb@nau.edu if you have a great reason for wanting to join, but further acceptance will be rare.*
 
 ### What if I don't get accepted?
 
