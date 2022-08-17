@@ -5,6 +5,4 @@ title: Apply
 
 ## Apply to the workshop
 
-To apply to the workshop, please fill out [this application form](https://forms.gle/rNQZMdUBMpy2wSzR9).
-
-*Note: Acceptance letters have already been sent out. Further acceptance will only be made in rare circumstances. If you apply above, send an email to michael.erb@nau.edu to make sure that your application is seen.*
+*The application form has been closed and acceptance letters have already been sent out. Please email Michael Erb at michael.erb@nau.edu if you have a great reason for wanting to join, but further acceptance will be rare.*
