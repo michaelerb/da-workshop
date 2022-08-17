@@ -10,7 +10,7 @@ title: Schedule
 - 9:15 – 10am: Intro and math of paleoclimate data assimilation
 - 10 – 10:30am: Paleoclimate data assimilation in practice: LGMR with Matt Osman
 - 10:30 – 11am: Paleoclimate data assimilation in practice: LMR with Sara Sanchez
-- 11am – 12: Intro to interactive python notebook
+- 11am – 12: Intro to interactive python notebooks
 - 12 – 1pm: Break
 - 1 – 2pm: Temp12k and other proxy databases
 - 2 – 3pm: Using PSMs to connect proxy and model data
