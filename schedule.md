@@ -7,7 +7,7 @@ title: Schedule
 
 **Day 1: August 22**
 - 9 – 9:15am: Welcome and workshop overview
-- 9:15 – 10am: Intro and math of paleoclimate data assimilation
+- 9:15 – 10am: How Paleo Data Assimilation Works
 - 10 – 10:30am: Paleoclimate data assimilation in practice: LGMR with Matt Osman
 - 10:30 – 11am: Paleoclimate data assimilation in practice: LMR with Sara Sanchez
 - 11am – 12: Intro to interactive python notebooks
