@@ -8,6 +8,6 @@ Jupyter notebooks, data, and presentation slides
 
 ### Link to Recorded Talks:
 
-[Day 1 - Introduction to Workshop and Paleo Data Assimilation](https://drive.google.com/drive/folders/1AEhLhE_J4v9816bHeT2I10nsCDGB2v4v?usp=sharing)
+[Day 1a,b - Introduction to Workshop and Paleo Data Assimilation](https://drive.google.com/drive/folders/1gsgsXkT0mL5gPKfvXHw_fg2OKP3MKuvW?usp=sharing)
 
 All other talks (This link will be added once talks have been recorded)
