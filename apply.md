@@ -5,4 +5,4 @@ title: Apply
 
 ## Apply to the workshop
 
-*The application form has been closed and acceptance letters have already been sent out. Please email Michael Erb at michael.erb@nau.edu if you have a great reason for wanting to join, but further acceptance will be rare.*
+To apply for the workshop, please fill out [this application form](https://forms.gle/ZXpQqwKgXAx6usURA) by August 11th, 2023. Acceptance may be limited based on the number of applicants.
