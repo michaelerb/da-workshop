@@ -31,4 +31,4 @@ title: Schedule
 - 11am – 12: Looking forward – What's next for paleoclimate data assimilation?
 - 12 - 12:15pm: Workshop wrap-up
 
-*A note about time zones*: Times above are given as Pacific Time. Talks will be recorded for later viewing and interactive Hackathon segments can be done as convenient for the participant. If possible, hoever, live participation is recommended.
+*A note about time zones*: Times above are given as Pacific Time. Talks will be recorded for later viewing and interactive Hackathon segments can be done as convenient for the participant. If possible, however, live participation is recommended.
