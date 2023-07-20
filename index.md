@@ -10,7 +10,7 @@ Past climate offers a vast canvas for exploring the dynamics and natural variabi
 
 In this workshop, we'll explore the topic of paleoclimate data assimilation in several ways. Research talks will explore current and ongoing data assimilation work; lessons will dive into the topics of proxies, models, the mathematics of data assimilation (and more); and activities will allow participants to get hands on with existing climate reconstructions and run their own.
 
-The workshop will take place online on **August 21-23, 2023**. The 2.5-day workshop will consist of live online talks, asynchronous coding activities, and discourse with fellow workshop attendees over Slack. Users should have a basic understanding of python as coding activities will involve the use and modification of interactive python notebooks.
+The workshop will take place online on **August 21-23, 2023**. The 2.5-day workshop will consist of live online talks, asynchronous coding activities, and discourse with fellow workshop attendees over Slack. Users should have a basic understanding of Python as coding activities will involve the use and modification of interactive Python notebooks.
 
 Users will learn about:
 - The mathematics and purpose of paleoclimate data assimilation
