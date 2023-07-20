@@ -27,7 +27,7 @@ title: Schedule
 
 **Day 3: August 23**
 - 9 – 10am: Comparison of Hackathon results and Q&A
-- 10 – 11am: Modern data assimilation: TBD
+- 10 – 11am: Modern data assimilation: ECMWF with Hans Hersbach
 - 11am – 12: Looking forward – What's next for paleoclimate data assimilation?
 - 12 - 12:15pm: Workshop wrap-up
 
