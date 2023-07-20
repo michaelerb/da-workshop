@@ -18,4 +18,4 @@ Users will learn about:
 - Existing proxy and climate model products you can use in your own work
 - How to access, analyze, and run paleoclimate reconstructions
 
-To apply for the workshop, fill out the application form here: COMING SOON.
+**Apply:** To apply for the workshop, fill out [this application form](https://forms.gle/ZXpQqwKgXAx6usURA).
