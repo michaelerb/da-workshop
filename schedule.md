@@ -11,7 +11,7 @@ title: Schedule
 - 9 – 9:15am: Welcome and workshop overview
 - 9:15 – 10am: How Paleo Data Assimilation Works
 - 10 – 10:30am: Paleoclimate data assimilation in practice: TBD
-- 10:30 – 11am: Paleoclimate data assimilation in practice: TBD
+- 10:30 – 11am: Paleoclimate data assimilation in practice: LMR with Sara Sanchez
 - 11am – 12: Intro to interactive python notebooks
 - 12 – 1pm: Break
 - 1 – 2pm: Temp12k and other proxy databases
