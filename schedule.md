@@ -10,7 +10,7 @@ title: Schedule
 **Day 1: August 21**
 - 9 – 9:15am: Welcome and workshop overview
 - 9:15 – 10am: How Paleo Data Assimilation Works
-- 10 – 10:30am: Paleoclimate data assimilation in practice: TBD
+- 10 – 10:30am: Paleoclimate data assimilation in practice: Southern Annular Mode with Jonathan King
 - 10:30 – 11am: Paleoclimate data assimilation in practice: LMR with Sara Sanchez
 - 11am – 12: Intro to interactive python notebooks
 - 12 – 1pm: Break
