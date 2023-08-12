@@ -5,4 +5,4 @@ title: Apply
 
 ## Apply to the workshop
 
-To apply for the workshop, please fill out [this application form](https://forms.gle/ZXpQqwKgXAx6usURA) by August 11th, 2023. Acceptance may be limited based on the number of applicants.
+Application for the workshop is now closed. If you have a great reason for wanting to join, please email michael.erb@nau.edu. However, further acceptance will be rare.
