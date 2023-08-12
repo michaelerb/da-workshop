@@ -18,4 +18,4 @@ Users will learn about:
 - Existing proxy and climate model products you can use in your own work
 - How to access, analyze, and run paleoclimate reconstructions
 
-**Apply:** To apply for the workshop, fill out [this application form](https://forms.gle/ZXpQqwKgXAx6usURA) by August 11th. Acceptance may be limited depending on the number of applicants. 
+**Apply:** Application for the workshop is now closed. If you have a great reason for wanting to join, please email michael.erb@nau.edu. However, further acceptance will be rare.
