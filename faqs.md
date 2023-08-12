@@ -33,7 +33,7 @@ No, the workshop will be completely, absolutely, genuinely free!
 
 ### Great, how do I apply for the workshop?
 
-To apply for the workshop, fill out [this application form](https://forms.gle/ZXpQqwKgXAx6usURA) by August 11th, 2023. Depending on the number of applicants, acceptance may be limited.
+Application for the workshop is now closed. If you have a great reason for wanting to join, please email michael.erb@nau.edu. However, further acceptance will be rare.
 
 ### What if I don't get accepted?
 
