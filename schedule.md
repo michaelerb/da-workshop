@@ -28,7 +28,8 @@ title: Schedule
 **Day 3: August 23**
 - 9 – 10am: Comparison of Hackathon results and Q&A
 - 10 – 11am: Modern data assimilation: ECMWF with Hans Hersbach
-- 11am – 12: Looking forward – What's next for paleoclimate data assimilation?
+- 11 - 11:30am: The Paleoclimate Reconstruction Storehouse - PReSto 
+- 11:30am – 12: Looking forward – What's next for paleoclimate data assimilation?
 - 12 - 12:15pm: Workshop wrap-up
 
-*A note about time zones*: Times above are given as Pacific Time. Talks will be recorded for later viewing and interactive Hackathon segments can be done as convenient for the participant. If possible, however, live participation is recommended.
+*A note about time zones*: Times above are given as Pacific Daylight Time. Talks will be recorded for later viewing and interactive Hackathon segments can be done as convenient for the participant. If possible, however, live participation is recommended.
