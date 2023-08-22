@@ -21,4 +21,9 @@ Multiple videos are at each of these links. Use the arrow buttons at the bottom 
 - Video 1: Temp12k and other proxy databases
 - Video 2: Using PSMs to connect proxy and model data
 
+[Day 3](https://nau.zoom.us/rec/share/0t-bQUK7lXr6IFni-fXzOi_-8KNgUMCaDA_Tjh3AHanS-CtoLd5CK92L4_sqLcLk.eBnGroFVz0genO52) (Three videos)
+- Video 1: Analyzing and compositing proxy data
+- Video 2: Models and isotope-enabled models
+- Video 3: Introduction to running a data assimilation experiment
+
 New talks will be posted after they are given.
